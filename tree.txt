@@ -1,0 +1,8 @@
+header
+  -hpicture
+  -navbar
+body
+  -description
+  -kegDisplay
+  
+footer
